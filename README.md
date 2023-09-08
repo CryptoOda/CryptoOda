@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Trading station<br>👯 I’m looking to collaborate on Web 3 dApp <br>🌱 I’m currently learning Solidity <br>💬 Ask me about trading strategies or how to get rekt easily<br>⚡ Fun fact : my bot have a better consistency than me
+🔭 I’m currently working on a Trading station<br>👯 I’m looking to collaborate on Web 3 dApp <br>🌱 I’m currently learning Solidity <br>💬 Ask me about trading strategies or how to get rekt easily<br>⚡ Fun fact : my bot have a better trading consistency than me
 
 
 ## 🌐 Socials:
