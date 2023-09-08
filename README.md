@@ -12,7 +12,9 @@
 ![](https://github-readme-streak-stats-cryptooda.herokuapp.com/?user=cryptooda&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats-cryptooda.vercel.app/api/top-langs/?username=cryptooda&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![Anurag's GitHub stats](https://github-readme-stats-cryptooda.vercel.app/api?username=cryptooda)](https://github.com/cryptooda/github-readme-stats)
+Test
+[![Oda's GitHub stats](https://github-readme-stats-cryptooda.vercel.app/api?username=cryptooda)](https://github.com/cryptooda/github-readme-stats)
+[![Top Langs](https://github-readme-stats-cryptooda.vercel.app/api/top-langs/?username=cryptooda)](https://github.com/cryptooda/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=cryptooda&theme=radical&no-frame=true&no-bg=true&margin-w=4)
