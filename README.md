@@ -1,11 +1,11 @@
-# 💫 About Me:
+# 💫 About Me
 🔭 I’m currently working on a Trading station<br>👯 I’m looking to collaborate on Web3 dApp <br>🌱 I’m currently learning Solidity <br>💬 Ask me about trading strategies or how to get rekt easily<br>⚡ Fun fact : my bot hase a better trading consistency than me
 
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/crypto_oda) 
 
-# 💻 My Tech Stack:
+# 💻 My Tech Stack
 ### Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ### Hosting/Saas
@@ -19,7 +19,7 @@
 ### Others
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
 
-# 📊 Some Stats:
+# 📊 Some Stat
 ![](https://github-readme-stats-cryptooda.vercel.app/api?username=cryptooda&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats-cryptooda.herokuapp.com/?user=cryptooda&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats-cryptooda.vercel.app/api/top-langs/?username=cryptooda&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
