@@ -1,5 +1,5 @@
 # 💫 About Me
-🔭 I’m currently working on a Trading station<br>👯 I’m looking to collaborate on Web3 dApp <br>🌱 I’m currently learning Solidity <br>💬 Ask me about trading strategies or how to get rekt easily<br>⚡ Fun fact : my bot have a better trading consistency than me
+🔭 I’m currently working on a Trading station<br>👯 I’m looking to collaborate on Web3 dApp <br>🌱 I’m currently learning Solidity <br>💬 Ask me about trading strategies<br>
 
 
 ## 🌐 Socials
@@ -7,7 +7,7 @@
 
 # 💻 My Tech Stack
 ### Languages
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ### Hosting/Saas
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white)![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) 
 ### Frameworks, Platform & Librairies
